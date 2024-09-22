@@ -1,0 +1,323 @@
+<?php
+$string =  '<!DOCTYPE html>'.
+'html lang="fr-FR">'.
+'   <head>'.
+'   <title></title>'.
+'    <meta charset="utf-8" :>'.
+'   </head>'.
+'   <link rel="stylesheet" href="style.css">'.
+'   <body>'.
+'   <main>'.
+'       <h1><center>Améliorer la vie des personnes avec autisme</center></h1><br />'.
+'       <p>Voici quelques conseils pour améliorer la vie des personnes avec autisme :</p><br />'.
+'       <h2>diagnostic et prise en charge</h2><br />'.
+'       <p>Plus l\'autisme est diagnostiqué et pris en charge tôt, plus la personne peut évoluer favorablement et rapidement. Alors certes, ce n\'est pas juste cela qui fera de cette personne la meilleure de l\'humanité mais cela compte. Les premières années de la vie sont très déterminantes.</p>'.
+'       <p>Une fois le diagnostic posé, il convient de mettre en place un suivi : selon le cas un.e ou plusieurs spécialistes parmi : psychologue et/ou psychiatre, psychomotricien.ne, orthophoniste, neuropsychologue.</p> <br />'.
+'        <h2>Intimité et espace vital</h2><br />'.
+'       <p>Valable toute la vie, il convient de respecter l\'intimité et l\'espace vital de la personne autiste. Ne la toucher qu\'avec son consentement, tout comme évoquer des sujets difficules ou publier des choses sur elles : consentement obligatoire.</p><br />'.
+'       <h2>famille</h2><br />'.
+'       <p>Respecter la personne TSA (Trouble du Spectre Autistique) si elle ne veut pas participer aux repas de famille, aux mariages, si elle ne veut pas fréquenter tel cousin.e (comme mon cousin paternel)... Que ce dernier accepte une bonne fois pour toute que je le ghoste et bloque.</p><br />'.
+'       <h2>École</h2><br />'.
+'       <p>Comme le dit Josef Schovanec dans sa vidéo "Survivre à l\'école" <a href="https://www.youtube.com/watch?v=z8AcTk4jRmc">Survivre à l\'école</a>, préparer une lettre que l\'enseignant.e, le parent ou l\'élève lui/elle-même lit. Cette lettre est à lire devant la classe le jour de la rentrée pour expliquer ce qu\'est l\'autisme, les précautions à prendre, les aménagements à mettre en place.</p>'.
+'       <p>Bénéficier d\'aménagements comme un encadrement (Auxiliaire de Vie Scolaire ou interprète pour sourds), aide à la prise de notes, accès à un ordinateur, tiers-temps aux examens, aide aux travaux colectifs (exposés, Travaux Pratiques, projets dans l\'enseignement supérieur).</p>'.
+'       <p>Il est plus que judicieux que les personnes avec autisme aient un.e tuteur/tutrice qui puissent intervenir en cas d\'incompréhension, de quiproquo voir si cela tourne mal avec un.e autre élève ou le corps enseignant.</p>'.
+'       <p>Créer des classes intermédiaires : si un élève n\'a pas le niveau pour passer à la classe supérieure mais a toutefois quelques compétences, ces classes intermédiaires permettraient d\'avancer dans la scolarité sans refaire exactement la même chose plusieurs années de suite. C\'est selon moi un bon compromis entre redoublement et passage au cycle supérieur. Cela m\'aurait notamment évité de faire deux premières et deux terminales au lycée. Des classes intermédiaires auraient donc été une <i>seconde-première</i> et une <i>première-terminale</i>.</p><br />'.
+'       <h2>Travail</h2><br />'.
+'       <p>Maintenir le tutorat de l\'enseignement dans la vie professionnelle et même dans d\'autres domaines.</p><br />'.
+'       <h3>entrée sur le marché du travail</h3> <br />'.
+'       <p>Que ce soit pour un stage, un emploi saisonnier, un emploi étudiant, un apprentissage, une alternance, un emploi, un entreprenariat, il convient que le/la tuteur/tutrice aide la personne TSA :</p>'.
+'       <p>_à rédiger son CV et sa lettre de motivation</p>'.
+'       <p>_à préparer son entretien d\'embauche</p>'.
+'       <p>_préparer la personne TSA à sa future vie professionnelle : comportements à avoir avec les collègues, lui établir un règlement sur ce qu\'elle doit ou pas faire/dire...</p><br />'.
+'       <h3>une fois le poste obtenu</h3><br />'.
+'       <p>Il convient comme à l\'école de bénéficier d\'aménagements :</p>'.
+'       <p>_bénéficier d\'un casque anti-bruits pour filtrer les bruits de fond</p>'.
+'       <p>_possibilité de télétravail</p>'.
+'       <p>_aménager les horaires afin de limiter les heures de pointe dans les transports publics ou les embouteillages</p>'.
+'       <p>_bureau individuel ou jusqu\'à quatre employé.e.s à bien choisir</p>'.
+'       <p>_tuteur/tutrice qui pourra intervenir au besoin (expliquer les consignes, demandes que la personne TSA ne peut pas formuler aux collègues/à la hiérarchie, intervenir si incompréhension/quiproquo ou si cela tourne mal...)</p>'.
+'       <p>_consignes par écrit</p>'.
+'       <p>_contacts par courriel ou par réseaux sociaux</p>'.
+'       <p>_ne pas critiquer la personne TSA si elle ne participe pas aux cafés, aux repas avec les collègues/l\'entreprise, les séminaires...</p><br />'.
+'       <h2>logement</h2><br />'.
+'       <p>Faciliter l\'accès au logement (résidence étudiante, cité universitaire, foyers travailleurs, location, propriété).</p>'.
+'       <p>Préparer les personnes TSA à leur autonomie :</p>'.
+'       <p>_tâches ménagères</p>'.
+'       <p>_administratif</p>'.
+'       <p>_trésorerie</p>'.
+'       <p>_courses</p>'.
+'       <p>_planning</p>'.
+'       <p>_comportement avec les voisin.e.s, gardien.ne.s, à l\'Assemblée Générale de copropriété...</p><br />'.
+'       <h2>permis de conduire</h2><br >'.
+'       <p>_faciliter l\'accès au permis de conduire aux personnes TSA</p>'.
+'       <p>_clarifier les consignes pendant les leçons de conduite et pendant l\'examen</p>'.
+'       <p>_au besoin, présence tuteur/tutrice pendant les leçons de conduite et/ou l\'examen.</p> <br />'.
+'       <h2>loisirs, sorties</h2><br />'.
+'       <p>_faciliter l\'accès aux activités culturelles et sportives</p>'.
+'       <p>_développer l\'impro, le speed-ball, le body balance ; convaincre les troupes, les clubs de les accueillir les bras ouverts. En faire pratiquer aux personnes TSA.</p> '.
+'       <p>Qu\'elles montrent l\'exemple en montrant qu\'elles sont capables d\'animer un atelier (d\'impro, de speed-ball ou de body balance) voire de MCser (Maître.sse de Cérémonie) ou d\'arbitrer un spectacle d\'impro.</p>'.
+'       <p>_motiver les personnes TSA à faire des activités et des sortries : aller à la piscine, au cinéma, au musée, partir en week-end/en vacances...</p><br />'.
+'       <h2>Lieux publics</h2><br />'.
+'       <p>Lieux tels que : commerces, bars, cafés, restaurants</p>'.
+'       <p>_étendre les périodes où la lumière et le son sont réduits de façon à ce que les personnes TSA qui étudient/travaillent en bénéficient (la plupart du temps cet aménagement est sur un horaire comme le lundi à 10 heures). Il est donc judicieux de mettre en place un horaire en fin d\'après-midi et le week-end/les jours fériés.</p>'.
+'       <p>_mettre un espace au calme où les personnes TSA peuvent prendre leurs consommations sans être dérangées, voire étudier/travailler.</p> '.
+'       <p>_mettre des caisses rapides et sans bugs afin de limiter voire éradiquer les temps d\'attente.</p><br />'.
+'       <h2>transports</h2><br />'.
+'       <p>Aménager un espace calme dans les ports, les ferries, les gares, les trains, les aéroports, les avions pour que les personnes TSA puissent se reposer ou étudier ou lire ou regarder un film/une série sans être dérangés par les bruits de fond.</p>'.
+'       <p>En conséquence, leurs seules interactions seront avec le/la chef.fe de bord (ou le/la contrôleur/contrôleuse) pour le train ; le/la chef.fe de cabine,les hôtesses de l\'air/steward pour l\'avion ; le personnel des ferries ; le personnel des ports, des gares et des aéroports. </p>'.
+'       <p>Ainsi que pour toute situation d\'urgence.</p><br />'.
+'       <h2>amitié/amour</h2><br />'.
+'       <p>Aider les personnes TSA à rencontrer des personnes.</p>'.
+'       <p>Que celles-ci les respectent, les acceptent et les aiment telles qu\'elles sont. Qu\'elles aient leur nunchi<sup>1</sup>, qu\'elles aient une confiance 106%, puissent se confier à foison.</p><br />'.
+'       <p><sup>1</sup> : ce sixième sens qu\'ont les coréen.ne.s pour comprendre ce que l\'autre ressent sans avoir à le dire, l\'écrire, l\'expliquer.</p><br />'.
+'       <ul><a href="index.html">Retour page d\'accueil</a>'.
+'		'.
+'       </ul>'.
+''.
+'   </main>'.
+'  '.
+'/body>'.
+'br />'.
+'       <footer>'.
+'           <a href="https://www.linkedin.com/in/titan-dasyphol-470a53317/">LinkedIn</a> <a href="https://github.com/titandasypholauteur">github</a> <a href="https://x.com/titandasyphol">X</a>   <a href="https://www.instagram.com/titan_dasyphol_auteur/">Instagram</a><br />'.
+'       '.
+'           <h4><center>Remarques et suggestions</center></h4>'.
+'       '.
+'       '.
+'       <p>Salut!</p>'.
+'       <p>Si tu as des questions, des remarques, des suggestions, merci de m\'envoyer un message via ce formulaire.</p>'.
+'           '.
+'       '.
+'       '.
+'       <form id="inscription" class="formulaire" method="post" action="." onsubmit="document.getElementById(\'validator\').disabled=true;">'.
+'       '.
+'           <fieldset class="">'.
+'                   <legend>Informations personnelles</legend>'.
+'                           <p class="champ">'.
+'                           <label for="prenom">Prénom</label>'.
+'                           <input id="prenom" name="prenom" value="" class="" />'.
+'                       </p>'.
+'       '.
+'                       <p class="champ">'.
+'                           <label for="nom">Nom</label>'.
+'                           <input id="nom" name="nom" value="" class="" />'.
+'                       </p>'.
+'       '.
+'                       <p class="champ">'.
+'                           <label for="email">courriel</label>'.
+'                           <input id="email" name="email" value="" class="" />'.
+'                       </p>'.
+'       '.
+'                       <p class="champ">'.
+'                           <label for="dtJr">Date de naissance</label>'.
+'       '.
+'                           <select name="dtJr" class="">'.
+'                               <option value=""></option>'.
+'                                                           <option value="1" >1</option>'.
+'                                                           <option value="2" >2</option>'.
+'                                                           <option value="3" >3</option>'.
+'                                                           <option value="4" >4</option>'.
+'                                                           <option value="5" >5</option>'.
+'                                                           <option value="6" >6</option>'.
+'                                                           <option value="7" >7</option>'.
+'                                                           <option value="8" >8</option>'.
+'                                                           <option value="9" >9</option>'.
+'                                                           <option value="10" >10</option>'.
+'                                                           <option value="11" >11</option>'.
+'                                                           <option value="12" >12</option>'.
+'                                                           <option value="13" >13</option>'.
+'                                                           <option value="14" >14</option>'.
+'                                                           <option value="15" >15</option>'.
+'                                                           <option value="16" >16</option>'.
+'                                                           <option value="17" >17</option>'.
+'                                                           <option value="18" >18</option>'.
+'                                                           <option value="19" >19</option>'.
+'                                                           <option value="20" >20</option>'.
+'                                                           <option value="21" >21</option>'.
+'                                                           <option value="22" >22</option>'.
+'                                                           <option value="23" >23</option>'.
+'                                                           <option value="24" >24</option>'.
+'                                                           <option value="25" >25</option>'.
+'                                                           <option value="26" >26</option>'.
+'                                                           <option value="27" >27</option>'.
+'                                                           <option value="28" >28</option>'.
+'                                                           <option value="29" >29</option>'.
+'                                                           <option value="30" >30</option>'.
+'                                                           <option value="31" >31</option>'.
+'                                                   </select>  /'.
+'                                               <select name="dtMois" class="">'.
+'                               <option value=""></option>'.
+'                                                           <option value="1" >Janvier</option>'.
+'                                                           <option value="2" >Février</option>'.
+'                                                           <option value="3" >Mars</option>'.
+'                                                           <option value="4" >Avril</option>'.
+'                                                           <option value="5" >Mai</option>'.
+'                                                           <option value="6" >Juin</option>'.
+'                                                           <option value="7" >Juillet</option>'.
+'                                                           <option value="8" >Août</option>'.
+'                                                           <option value="9" >Septembre</option>'.
+'                                                           <option value="10" >Octobre</option>'.
+'                                                           <option value="11" >Novembre</option>'.
+'                                                           <option value="12" >Décembre</option>'.
+'                                                   </select>  /'.
+'       '.
+'                           <select name="dtAn" class="">'.
+'                               <option value=""></option>'.
+'                                                           <option value="2016" >2016</option>'.
+'                                                           <option value="2015" >2015</option>'.
+'                                                           <option value="2014" >2014</option>'.
+'                                                           <option value="2013" >2013</option>'.
+'                                                           <option value="2012" >2012</option>'.
+'                                                           <option value="2011" >2011</option>'.
+'                                                           <option value="2010" >2010</option>'.
+'                                                           <option value="2009" >2009</option>'.
+'                                                           <option value="2008" >2008</option>'.
+'                                                           <option value="2007" >2007</option>'.
+'                                                           <option value="2006" >2006</option>'.
+'                                                           <option value="2005" >2005</option>'.
+'                                                           <option value="2004" >2004</option>'.
+'                                                           <option value="2003" >2003</option>'.
+'                                                           <option value="2002" >2002</option>'.
+'                                                           <option value="2001" >2001</option>'.
+'                                                           <option value="2000" >2000</option>'.
+'                                                           <option value="1999" >1999</option>'.
+'                                                           <option value="1998" >1998</option>'.
+'                                                           <option value="1997" >1997</option>'.
+'                                                           <option value="1996" >1996</option>'.
+'                                                           <option value="1995" >1995</option>'.
+'                                                           <option value="1994" >1994</option>'.
+'                                                           <option value="1993" >1993</option>'.
+'                                                           <option value="1992" >1992</option>'.
+'                                                           <option value="1991" >1991</option>'.
+'                                                           <option value="1990" >1990</option>'.
+'                                                           <option value="1989" >1989</option>'.
+'                                                           <option value="1988" >1988</option>'.
+'                                                           <option value="1987" >1987</option>'.
+'                                                           <option value="1986" >1986</option>'.
+'                                                           <option value="1985" >1985</option>'.
+'                                                           <option value="1984" >1984</option>'.
+'                                                           <option value="1983" >1983</option>'.
+'                                                           <option value="1982" >1982</option>'.
+'                                                           <option value="1981" >1981</option>'.
+'                                                           <option value="1980" >1980</option>'.
+'                                                           <option value="1979" >1979</option>'.
+'                                                           <option value="1978" >1978</option>'.
+'                                                           <option value="1977" >1977</option>'.
+'                                                           <option value="1976" >1976</option>'.
+'                                                           <option value="1975" >1975</option>'.
+'                                                           <option value="1974" >1974</option>'.
+'                                                           <option value="1973" >1973</option>'.
+'                                                           <option value="1972" >1972</option>'.
+'                                                           <option value="1971" >1971</option>'.
+'                                                           <option value="1970" >1970</option>'.
+'                                                           <option value="1969" >1969</option>'.
+'                                                           <option value="1968" >1968</option>'.
+'                                                           <option value="1967" >1967</option>'.
+'                                                           <option value="1966" >1966</option>'.
+'                                                           <option value="1965" >1965</option>'.
+'                                                           <option value="1964" >1964</option>'.
+'                                                           <option value="1963" >1963</option>'.
+'                                                           <option value="1962" >1962</option>'.
+'                                                           <option value="1961" >1961</option>'.
+'                                                           <option value="1960" >1960</option>'.
+'                                                           <option value="1959" >1959</option>'.
+'                                                           <option value="1958" >1958</option>'.
+'                                                           <option value="1957" >1957</option>'.
+'                                                           <option value="1956" >1956</option>'.
+'                                                           <option value="1955" >1955</option>'.
+'                                                           <option value="1954" >1954</option>'.
+'                                                           <option value="1953" >1953</option>'.
+'                                                           <option value="1952" >1952</option>'.
+'                                                           <option value="1951" >1951</option>'.
+'                                                           <option value="1950" >1950</option>'.
+'                                                           <option value="1949" >1949</option>'.
+'                                                           <option value="1948" >1948</option>'.
+'                                                           <option value="1947" >1947</option>'.
+'                                                           <option value="1946" >1946</option>'.
+'                                                           <option value="1945" >1945</option>'.
+'                                                           <option value="1944" >1944</option>'.
+'                                                   </select>'.
+'       '.
+'                       </p>'.
+'       '.
+'                       <p class="champ">'.
+'                           <label for="sexe">Mode.s de communication de prédilection</label>'.
+'                               <span>'.
+'                               <select id="sexe" name="sexe" class="">'.
+'                               <option value="NULL"></option>'.
+'                               <option value="M" >'.
+'                                   SMS'.
+'                               </option>'.
+'                               <option value="F" >'.
+'                                   courriel'.
+'                               '.
+'                               <!-- <option value="S" >'.
+'                                   Etre humain 3 -->'.
+'                                   <!-- ça marche pas d\'erreur en modifiant les possibilités et en rajoutant -->'.
+'       '.
+'                           '.
+'                               <option value="=F">'.
+'                                   Instagram'.
+'                               </option>'.
+'                               <option value="=F">'.
+'                                   tik-tok'.
+'                               </option>'.
+'                               <option value="=F">'.
+'                                   X'.
+'                               </option>'.
+'                               <option value="=F">'.
+'                                   Youtube'.
+'                               </option>'.
+'                               </select>'.
+'                               </span>'.
+'                       </p>'.
+'                       '.
+'       '.
+'                       <!-- <p class="champ">'.
+'                           <label for="sexe">Sexe</label>'.
+'                               <span>'.
+'                               <select id="sexe" name="sexe" class="">'.
+'                               <option value="NULL"></option>'.
+'                               <option value="M" >'.
+'                                   Homme'.
+'                               </option>'.
+'                               <option value="F" >'.
+'                                   Femme'.
+'                               </option>'.
+'                               </select>'.
+'                               </span>'.
+'                       </p> -->'.
+'       '.
+'       '.
+'               '.
+'                                   <p class="champ">'.
+'                   <label for="Info1">Téléphone</label>'.
+'                   <input id="Info1" name="Info1"	size="32" value="" class="" />'.
+'               </p>'.
+'               <p class="champ">'.
+'                   <label for="Info1">réseau.x social/sociaux</label>'.
+'                   <input id="Info1" name="Info1"	size="32" value="" class="" />'.
+'               </p>'.
+'               <p class="champ">'.
+'                   <label for="Info1">message</label>'.
+'                   <input id="Info1" name="Info1"	size="32" value="" class="" />'.
+'               </p>  '.
+'       '.
+'                   </fieldset>'.
+'       '.
+'       '.
+'       '.
+'       '.
+'           <p class="submit">'.
+'               <input type="submit" value="envoyer" name="validator" />'.
+'           </p>'.
+'       </form>'.
+'       '.
+'       '.
+'       '.
+'       </footer>'.
+''.
+'/html>';
+
+ echo $string; 
+?>
